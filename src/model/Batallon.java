@@ -51,4 +51,8 @@ public class Batallon {
     public static void cambiarCodigoOTAN(String nuevoCodigo) {
         codigoOTAN = nuevoCodigo;
     }
+    
+    public static String getCodigoOTAN() {
+        return codigoOTAN;
+    }
 }

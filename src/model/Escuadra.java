@@ -56,5 +56,7 @@ public class Escuadra {
     }
     
     public String getNombre() { return nombre; }
+    public int getNumero() { return numero; }
+    public TipoEscuadra getTipo() { return tipo; }
     public List<Soldado> getSoldados() { return soldados; }
 }

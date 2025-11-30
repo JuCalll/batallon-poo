@@ -54,5 +54,7 @@ public class Peloton {
     }
     
     public String getNombre() { return nombre; }
+    public String getComandante() { return comandante; }
+    public TipoPeloton getTipo() { return tipo; }
     public List<Escuadra> getEscuadras() { return escuadras; }
 }
