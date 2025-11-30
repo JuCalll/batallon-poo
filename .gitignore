@@ -1,0 +1,11 @@
+# --- Archivos Compilados ---
+bin/
+*.class
+
+# --- Configuraciones del Editor (VS Code / Cursor) ---
+.vscode/
+*.code-workspace
+
+# --- Archivos de Sistema Operativo ---
+.DS_Store
+Thumbs.db
