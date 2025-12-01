@@ -1,13 +1,13 @@
-package src.main;
+package main;
 import java.util.Scanner;
-import src.model.Batallon;
-import src.model.Peloton;
-import src.model.Escuadra;
-import src.model.Soldado;
-import src.enums.TipoBatallon;
-import src.enums.TipoPeloton;
-import src.enums.TipoEscuadra;
-import src.enums.RangoSoldado;
+import model.Batallon;
+import model.Peloton;
+import model.Escuadra;
+import model.Soldado;
+import enums.TipoBatallon;
+import enums.TipoPeloton;
+import enums.TipoEscuadra;
+import enums.RangoSoldado;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package src.model;
-import src.enums.RangoSoldado;
+package model;
+import enums.RangoSoldado;
 
 public class Soldado {
     // Atributos

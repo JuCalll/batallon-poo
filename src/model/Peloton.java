@@ -1,7 +1,7 @@
-package src.model;
+package model;
 import java.util.ArrayList;
 import java.util.List;
-import src.enums.TipoPeloton;
+import enums.TipoPeloton;
 
 public class Peloton {
     // Atributos

@@ -4,8 +4,8 @@ import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
 import org.junit.Test;
 
-import src.model.Soldado;
-import src.enums.RangoSoldado;
+import model.Soldado;
+import enums.RangoSoldado;
 
 public class SoldadoTest {
     @Test

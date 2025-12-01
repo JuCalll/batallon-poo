@@ -39,23 +39,6 @@ TallerPOO/
 - JDK 17 o superior
 - Maven 3.6 o superior
 
-## Compilación y Ejecución
-
-### Compilar el proyecto:
-```bash
-mvn compile
-```
-
-### Ejecutar el programa:
-```bash
-mvn exec:java -Dexec.mainClass="src.main.Main"
-```
-
-### Ejecutar pruebas:
-```bash
-mvn test
-```
-
 ## Funcionalidades
 
 - Gestión de soldados dentro de escuadras

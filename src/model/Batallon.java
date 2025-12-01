@@ -1,6 +1,6 @@
-package src.model;
+package model;
 import java.util.ArrayList;
-import src.enums.TipoBatallon;
+import enums.TipoBatallon;
 import java.util.List;
 
 public class Batallon {

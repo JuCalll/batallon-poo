@@ -3,10 +3,10 @@ package tests;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-import src.model.Escuadra;
-import src.model.Soldado;
-import src.enums.TipoEscuadra;
-import src.enums.RangoSoldado;
+import model.Escuadra;
+import model.Soldado;
+import enums.TipoEscuadra;
+import enums.RangoSoldado;
 
 public class EscuadraTest {
     @Test
